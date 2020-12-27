@@ -1,0 +1,29 @@
+_repo: The-Christmas-dinner-from-The-sketch-book_64092
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Irving, Washington
+    alias: Crayon, Geoffrey
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '34'
+    url: http://www.gutenberg.org/2009/agents/34
+    wikipedia: https://en.wikipedia.org/wiki/Washington_Irving
+description: ''
+gutenberg_issued: '2020-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64092'
+  lccn: '75301645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'Christmas stories'
+- GITenberg
+title: The Christmas dinner, from "The sketch book"
+url: http://www.gutenberg.org/ebooks/64092
